@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello, I'm Aditya! 👨‍💻 
     <img width="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> </h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Passionate Learner</h3>
+<h3 align="center">Full Stack Developer| Java SpringBoot | MERN | Passionate Learner</h3>
 
 ---
 
@@ -20,10 +20,10 @@ I'm a <b>Full Stack Developer</b> who loves building modern web applications usi
 
 <img width="50%" align="right" alt="GitHub header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **MERN stack applications**
+- 🔭 I’m currently working on **Java SpringBoot | MERN applications**
 - 🌱 I’m learning **Docker, DevOps basics, and advanced Next.js**
 - 👯 Open to collaboration on **Full Stack Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, JavaScript**
+- 💬 Ask me about **Java,SpringBoot,React, Node.js, MongoDB, Express, JavaScript**
 - ⚡ Fun fact: **I love exploring new tools and building side-projects**
 
 ---
